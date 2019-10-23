@@ -93,4 +93,5 @@ The first modification of this project has three leds that flash at the same tim
 
 The next version of this project has the same functionality except that there is an added input from the TTL input button on the breadboard and an additional led. If the input button is set to 1, the additional led will slowly light up and then fade out. If the input button is not set to 1, then nothing will happen to the led.
 ### Video
+The first part of the video is the original program and the second part of the video is the modified version.
 https://imgur.com/gallery/pgfCGKn?s=sms

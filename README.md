@@ -89,4 +89,6 @@ This assignment asks you to use the GPIO pins of the micro:bit to achieve extern
 
 ### Description
 
-TODO: Your project description, in your own words. _Clarity and grammatical correctness are required._
+The first modification of this project has three leds that flash at the same time. They go dark and then the leds take turns one at a time slowly fading in and out. This process is repeated in the forever loop.  
+
+The next version of this project has the same functionality except that there is an added input from the TTL input button on the breadboard and an additional led. If the input button is set to 1, the additional led will slowly light up and then fade out. If the input button is not set to 1, then nothing will happen to the led.
